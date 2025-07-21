@@ -1,3 +1,4 @@
 # Inspeção-Geral de Finanças - Autoridade de Auditoria
-- URL: 
-- Owner: 
+- URL: https://igf.gov.pt/
+- Proprietário: Autoridade de Auditoria
+- Candidatura a: Selo
