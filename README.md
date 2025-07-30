@@ -3,7 +3,7 @@
 - Proprietário: Autoridade de Auditoria
 - Candidatura a: Selo Prata
 
-## Consulte aqui: [Relatório #](https://unidade-acesso.github.io/report_00X/relatorio_report_00X.html)
+## Consulte aqui: [Relatório da Isnpeção Geral de Finanças](https://unidade-acesso.github.io/report_004/relatorio_report_004.html)
 
 ### Recursos de apoio ao relatório:
 - [Guia de utilização do relatório de auditorias](https://unidade-acesso.github.io/reports/guiao.html)
